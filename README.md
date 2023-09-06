@@ -1,18 +1,15 @@
-## Getting Started
+## Estruturas de Repetições
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A utilização do `for`, `while` e `do while`
 
-## Folder Structure
+## for
 
-The workspace contains two folders by default, where:
+- Utilizado para laços que já estão pre delimitados
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## while
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Utilizado para um número x desconhecido de vezes que o laço pode repetir, testando a condição antes de executar o código
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## do while
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Possuindo o mesmo objetivo do `while`, o `do while` testa a condição durante a execução
